@@ -6,7 +6,7 @@ var config = {
     password: "YOUR_PASS_HERE",           // optional, prompted if none given
     host: "YOUR_FTP_SERVER_HERE",
     port: 21,
-    localRoot: __dirname + '/public',
+    localRoot: __dirname + '/',
     remoteRoot: '/',
     include: ['*', '**/*'],      // this would upload everything except dot files
     //include: ['*.php', 'dist/*'],
