@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter, Dimension Design, coded by @AppSeed.us",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter, Designed by HTML5 UP, Coded by @AppSeed.us"
+    title: "whyedwin.com",
+    author: "Edwin Wong",
+    description: "Edwin Wong"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
