@@ -28,7 +28,8 @@
   },
   "devDependencies": {
     "prettier": "^1.14.2",
-    "surge": "^0.21.3"
+    "surge": "^0.21.3",
+    "eslint-utils": "@^1.4.1"
   },
   "repository": {
     "type": "git",
