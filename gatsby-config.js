@@ -3,7 +3,7 @@ module.exports = {
     title: `WhyEdit`,
     author: `Edwin Wong`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: ``,
+    siteUrl: `https://github.com/edwindotcom`,
     social: {
       twitter: `e_w`,
     },
