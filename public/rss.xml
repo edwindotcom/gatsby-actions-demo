@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[WhyEdwin]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://github.com/edwindotcom</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Oct 2019 00:02:55 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[Hello World]]></description><link>https://github.com/edwindotcom/hello-world/</link><guid isPermaLink="false">https://github.com/edwindotcom/hello-world/</guid><pubDate>Wed, 01 May 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Hello World&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[3rd Post]]></description><link>https://github.com/edwindotcom/new-beginnings/</link><guid isPermaLink="false">https://github.com/edwindotcom/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;3rd Post&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[2nd post]]></description><link>https://github.com/edwindotcom/my-second-post/</link><guid isPermaLink="false">https://github.com/edwindotcom/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;2nd post&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[WhyEdwin]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://github.com/edwindotcom</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Oct 2019 17:30:05 GMT</lastBuildDate><item><title><![CDATA[Web Next]]></title><description><![CDATA[What’s the future of the web? Indicators are that it will be powerful client JS apps talking to GraphQL speaking internal and external…]]></description><link>https://github.com/edwindotcom/hello-world/</link><guid isPermaLink="false">https://github.com/edwindotcom/hello-world/</guid><pubDate>Tue, 08 Oct 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h3&gt;What’s the future of the web?&lt;/h3&gt;
+&lt;p&gt;Indicators are that it will be powerful client JS apps talking to GraphQL speaking internal and external services living on the cloud.&lt;/p&gt;
+&lt;p&gt;Why?
+All the major components of a web application are moving the cloud services. Five years ago, you put everyting in a monilithic app and deployed once every few days.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Seperation of concerns between front and back ends, great for teams to work autonomously&lt;/li&gt;
+&lt;li&gt;GraphQL loosens the API contract between the two groups.&lt;/li&gt;
+&lt;li&gt;Algolia, fast indexing cloud service, offers a search as a service.&lt;/li&gt;
+&lt;li&gt;Identity, Single sign-on (SSO) are table stakes and moving to hosted services: OKTA, MS Identity, Google Auth.&lt;/li&gt;
+&lt;li&gt;Payments are a service: Stripe, Shopify.&lt;/li&gt;
+&lt;li&gt;Static site generators: Performance matters and static files on a CDN are often the fastest around.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What’s next&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mobile first.  Most client JS apps are heavy on bytes over wire and CPU. With web frameworks, it’s likly they will optimize for mobile. Static site generators can easily build in Progressive Web App support as it continues to evolve.&lt;/li&gt;
+&lt;li&gt;SSO is still slow and hard to implement on mobile.&lt;/li&gt;
+&lt;li&gt;Browsers download 10s of versions of client libraries. Will web components or plugin archetecture help reduce this problem?&lt;/li&gt;
+&lt;li&gt;SEO hasn’t caught up to client rendered apps.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
