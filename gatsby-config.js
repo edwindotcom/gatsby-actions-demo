@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `WhyEdit`,
+    title: `WhyEdwin`,
     author: `Edwin Wong`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://github.com/edwindotcom`,
