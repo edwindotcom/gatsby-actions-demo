@@ -26,3 +26,5 @@ All the major components of a web application are moving the cloud services. Fiv
 * Browsers download 10s of versions of client libraries. Will web components or plugin archetecture help reduce this problem?
 * SEO hasn't caught up to client rendered apps.
 * More low code app builders like shopify? Democratization of the web through purpose built solutions?
+
+Testing GH Actions
