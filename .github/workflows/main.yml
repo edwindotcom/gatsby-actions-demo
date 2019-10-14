@@ -12,7 +12,6 @@ jobs:
       -
         name: Build
         run: |
-          mkdir public
           cat > public/index.html <<EOL
           <!doctype html>
           <html>
