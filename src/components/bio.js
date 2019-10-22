@@ -41,7 +41,7 @@ const Bio = () => {
       }}
     >
       <p>
-        Fooey Written by <strong>{author}</strong> who lives and works in San
+        Hi 8am Demo !!!!! Written by <strong>{author}</strong> who lives and works in San
         Francisco building useful things.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
