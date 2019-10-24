@@ -41,12 +41,9 @@ const Bio = () => {
       }}
     >
       <p>
-        Hi PAPER TEAM Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+Hi this is a Gatsby Site, built by GitHub actions, deployed via gh-pages branch
+        <a href={`https://github.com/edwindotcom/TypeC-Gatsby-Actions`}>
+Source </a>
       </p>
     </div>
   )
