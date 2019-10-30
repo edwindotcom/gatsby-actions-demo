@@ -1,5 +1,5 @@
 ---
-title: Web Next
+title: Web Next1
 date: "2019-10-08T22:12:03.284Z"
 description: "React and microservices eating the world?"
 ---
